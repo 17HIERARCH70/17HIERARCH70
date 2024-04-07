@@ -1,10 +1,43 @@
-### Welcome to my profile 👋
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I+am+GoLang+Developer+and+welcome!" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C867F7&center=true&vCenter=true&random=false&width=435&lines=GoLang+Developer+%26+Gamer+&#9825;" alt="Typing SVG" /></a>
+In this profile you can find all possible assignments for ITMO University, internship assignments and my pet projects. Leave pool requests, you can write to me in telegram, and of course to mail. 
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bqvwa8lxkmzv0v2ndvrs2xb2l">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bqvwa8lxkmzv0v2ndvrs2xb2l" alt="Data Card for Spotify">
-</a>
+<br>
+
+## Language and Tools
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Main Stack:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=go"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgresql"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bash"/>](https://nodejs.org/en)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=docker"/>](https://react.dev/)
+
+
+#### Studying in this moment:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=kubernetes"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=kafka"/>](https://www.typescriptlang.org/)
+
+#### Tools:
+
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://www.figma.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+
+<br>
+
+## Academic Background:
+
+[<img align="left" height="94px" width="94px" alt="ITMO" src="https://itmo.ru/promo/itmo-logo-dark.svg"/>](https://www.itmo.ru/)
+**CyberSecurity Engineer** \
+[**ITMO**](https://www.itmo.ru/)  • In progress\
+Skills: `Databases` `Requirements Engineering` `Software Architecture` `Linear Algebra`
+`Math Analysis` `Software Development` `Software Security` `Machine Learning`
+
+<br>
 
 ## Contacts 
 <p align="left">
@@ -14,5 +47,8 @@
 <a href="https://discord.gg/mfm9BpEVGh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tgs_prod" height="30" width="40" /></a>
 </p>
 
-## Stats
+<br>
+
+## Statisctic
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=17hierarch70&show_icons=true&locale=en&layout=compact" alt="17hierarch70" /></p>
+<br>
