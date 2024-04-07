@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C867F7&center=true&vCenter=true&random=false&width=435&lines=GoLang+Developer+%26+Gamer+)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C867F7&center=true&vCenter=true&random=false&width=435&lines=GoLang+Developer+%26+Gamer+&#9825;" alt="Typing SVG" /></a>
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bqvwa8lxkmzv0v2ndvrs2xb2l">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bqvwa8lxkmzv0v2ndvrs2xb2l" alt="Data Card for Spotify">
