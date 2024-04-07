@@ -49,6 +49,6 @@ Skills: `Databases` `Requirements Engineering` `Software Architecture` `Linear A
 
 <br>
 
-## Statisctic
+## Statistics
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=17hierarch70&show_icons=true&locale=en&layout=compact" alt="17hierarch70" /></p>
 <br>
