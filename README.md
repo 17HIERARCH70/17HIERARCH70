@@ -50,5 +50,5 @@ Skills: `Databases` `Requirements Engineering` `Software Architecture` `Linear A
 <br>
 
 ## Statistics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=17hierarch70&show_icons=true&locale=en&layout=compact" alt="17hierarch70" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hexarchy&show_icons=true&locale=en&layout=compact" alt="HexArchy" /></p>
 <br>
